@@ -1,6 +1,5 @@
-package Experiment_K_kore_20181210
+package Experiment_Kcore_Kdegree_20190316
 
-import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.graphx._
 
 import scala.collection.immutable.IntMap
